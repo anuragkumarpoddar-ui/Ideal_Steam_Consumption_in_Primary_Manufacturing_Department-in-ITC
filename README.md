@@ -1,4 +1,5 @@
-# Steam Consumption Optimization in Manufacturing (ITC Project)
+# Steam Consumption Optimization in Manufacturing in ITC Project
+<img width="926" height="586" alt="ANURAG_ITC" src="https://github.com/user-attachments/assets/badd1b83-7a75-43cb-8e2a-2c1028cca8d7" />
 
 
 ---
